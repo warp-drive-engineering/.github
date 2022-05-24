@@ -16,7 +16,7 @@
 
 # WarpDrive Engineering
 
-WarpDrive Engineering creates technology solutions for local and small businesses :heart:
+:heart: WarpDrive Engineering creates technology solutions for local and small businesses 
 
 :rocket: We focus on investing in and building with technologies that enable
 our customers to stay competitive with solutions built to last.
