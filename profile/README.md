@@ -14,9 +14,8 @@
     title="Built with WarpDrive" />
 </p>
 
-# WarpDrive Engineering
+# WarpDrive
 
-:heart: WarpDrive Engineering creates technology solutions for local and small businesses 
+:heart: WarpDrive provides free OSS technology solutions 
 
-:rocket: We focus on investing in and building with technologies that enable
-our customers to stay competitive with solutions built to last.
+⚡️ We focus on ideas that enable your product to grow and evolve for decades
